@@ -24,9 +24,13 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juniorsdj&show_icons=true&count_private=true&theme=cobalt&hide=prs" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="350"></a>
   
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="350"></a>
+</p>
+
 
 <!--
 **juniorsdj/juniorsdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
