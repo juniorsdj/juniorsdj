@@ -21,7 +21,7 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorsdj&show_icons=true&count_private=truehide=prs" alt="juniorsdj" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsdj&layout=compact&hide=html" alt="juniorsdj" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorsdj&layout=compact" alt="juniorsdj" />
 </p>
 
 
