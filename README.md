@@ -1,4 +1,15 @@
 
+
+
+<h1 align='center'>
+  Hi there 👋 I'm Jennysson Júnior 👨‍💻
+</h1>
+
+<p align='center'>
+  A software engineer from Tobias Barreto, Brazil for world.
+</p>
+
+
 <p align='center'>
     <a href="https://wa.me/5579998815659?text=Eai%20Júnior%20peguei%20teu%20contato%20lá%20no%20github">
         <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
@@ -12,7 +23,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juniorsdj&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=juniorsdj&show_icons=true&count_private=true&theme=highcontrast" width="350"></a>
 </p>
 
 <!--
